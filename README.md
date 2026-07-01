@@ -24,9 +24,6 @@ This project focuses on analyzing real estate market performance across multiple
 
 - **MySQL**
 - **Python**
-  - Pandas
-  - NumPy
-  - Matplotlib
 - **Power BI**
 - **Microsoft Excel**
 
